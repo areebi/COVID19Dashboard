@@ -2,7 +2,7 @@
 
 A COVID-19 Dashboard visualizing data at the county, state, and national level.
 
-Used Python, along with the pandas and numplotlib libraries
+Used Python, along with the pandas and matplotlib libraries
 
 <img src="images/screenshot.PNG">
 
